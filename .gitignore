@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+/cpp/build
+/data/venv
+/spark/lib_managed
+/spark/project
+/spark/target
